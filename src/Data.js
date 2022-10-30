@@ -10,13 +10,7 @@ export default function Data() {
           </span>
           <div className="shown">
             <span className="units celfar">
-              <a href="#" id="celsius-link">
-                °C
-              </a>
-              |
-              <a href="#" id="fahrenheit-link">
-                °F
-              </a>
+              
             </span>
           </div>
         </h1>
